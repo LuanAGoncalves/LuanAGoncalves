@@ -1,4 +1,5 @@
-### Hi there, I'm Luan Gonçalves - [LuanAGoncalves][website]
+### Hi there, I'm Luan Gonçalves
+ <!-- - [LuanAGoncalves][website] -->
 
 <!--
 **LuanAGoncalves/LuanAGoncalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,9 +21,10 @@ Here are some ideas to get you started:
 - I'm a Data Scientist
 
 ### Connect with me:
-[<img align="left" height="30px" src="icons/social/globe.png" alt="luanagoncalves.github.io/" />][website]
+<!-- [<img align="left" height="30px" src="icons/social/globe.png" alt="luanagoncalves.github.io/" />][website] -->
 [<img align="left" height="30px" src="icons/social/github.png" alt="LuanAGoncalves | Github" />][github]
 [<img align="left" height="30px" src="icons/social/linkedin.png" alt="luan-gonçalves-4b180483 | LinkedIn" />][linkedin]
+[<img align="left" height="30px" src="icons/social/lattes.png" alt="6155949500719023 | lattes" />][lattes]
 [<img align="left" height="30px" src="icons/social/twitter.png" alt="LuanGon06470101 | Twitter" />][twitter]
 
 <br />
@@ -62,3 +64,4 @@ Here are some ideas to get you started:
 [website]: https://luanagoncalves.github.io/
 [linkedin]: https://www.linkedin.com/in/luan-gonçalves-4b180483/
 [twitter]: https://twitter.com/LuanGon06470101
+[lattes]: http://lattes.cnpq.br/6155949500719023
