@@ -40,18 +40,24 @@ Here are some ideas to get you started:
 [<img align="left" height="30px" src="icons/tools/pytorch.png" alt="Pytorch library" />](https://pytorch.org/)
 [<img align="left" height="30px" src="icons/tools/tensorflow.png" alt="Tensorflow library" />](https://www.tensorflow.org/?hl=pt-br)
 [<img align="left" height="30px" src="icons/tools/keras.png" alt="Keras library" />](https://keras.io/)
-[<img align="left" height="30px" src="icons/tools/Flask.png" alt="Sci-kit Learn framework" />](https://flask.palletsprojects.com/en/1.1.x/)
-[<img align="left" height="30px" src="icons/tools/django.png" alt="Django framework" />](https://www.djangoproject.com/)
-[<img align="left" height="30px" src="icons/languages/html5.png" alt="HTML 5" />](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
-[<img align="left" height="30px" src="icons/languages/css3.png" alt="CSS 3" />](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[<img align="left" height="30px" src="icons/languages/javascript.png" alt="JavaScript" />](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+<!-- [<img align="left" height="30px" src="icons/tools/Flask.png" alt="Sci-kit Learn framework" />](https://flask.palletsprojects.com/en/1.1.x/) -->
+<!-- [<img align="left" height="30px" src="icons/tools/django.png" alt="Django framework" />](https://www.djangoproject.com/) -->
+<!-- [<img align="left" height="30px" src="icons/languages/html5.png" alt="HTML 5" />](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5) -->
+<!-- [<img align="left" height="30px" src="icons/languages/css3.png" alt="CSS 3" />](https://developer.mozilla.org/pt-BR/docs/Web/CSS) -->
+<!-- [<img align="left" height="30px" src="icons/languages/javascript.png" alt="JavaScript" />](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) -->
 [<img align="left" height="30px" src="icons/tools/mysql.png" alt="MySQL" />](https://www.mysql.com/)
-[<img align="left" height="30px" src="icons/languages/scala.png" alt="Scala language" />](https://www.scala-lang.org/)
-[<img align="left" height="30px" src="icons/tools/spark.png" alt="Apache Spark" />](https://spark.apache.org/)
+<!-- [<img align="left" height="30px" src="icons/languages/scala.png" alt="Scala language" />](https://www.scala-lang.org/) -->
+<!-- [<img align="left" height="30px" src="icons/tools/spark.png" alt="Apache Spark" />](https://spark.apache.org/) -->
 
 <br />
 <br />
 <br />
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=LuanAGoncalves&theme=tokyonight&show_icons=true&count_private=true)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LuanAGoncalves&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanAGoncalves&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[github]: https://github.com/LuanAGoncalves
+[website]: https://luanagoncalves.github.io/
+[linkedin]: https://www.linkedin.com/in/luan-gonçalves-4b180483/
+[twitter]: https://twitter.com/LuanGon06470101
