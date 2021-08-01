@@ -31,9 +31,11 @@ Here are some ideas to get you started:
 <br />
 
 ### Languages and Tools:
+[<img align="left" height="30px" src="icons/languages/C_Logo.png" alt="Keras library" />](https://en.cppreference.com/w//)
+[<img align="left" height="30px" src="icons/languages/c-plus-plus-logo.png" alt="Keras library" />](https://en.cppreference.com/w//)
+[<img align="left" height="30px" src="icons/languages/python.png" alt="Python Language" />](https://www.python.org/)
 [<img align="left" height="30px" src="icons/tools/jupyter.png" alt="Project Jupyter" />](https://jupyter.org/)
 [<img align="left" height="30px" src="icons/tools/vscode.png" alt="Visual Studio Code" />](https://code.visualstudio.com/)
-[<img align="left" height="30px" src="icons/languages/python.png" alt="Python Language" />](https://www.python.org/)
 [<img align="left" height="30px" src="icons/tools/anaconda.png" alt="Anaconda package" />](https://www.anaconda.com/)
 [<img align="left" height="30px" src="icons/tools/pandas.png" alt="Pandas library" />](https://pandas.pydata.org/)
 [<img align="left" height="30px" src="icons/tools/numpy.png" alt="Numpy library" />](https://numpy.org/)
