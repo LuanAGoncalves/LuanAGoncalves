@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 [<img align="left" height="30px" src="icons/social/github.png" alt="LuanAGoncalves | Github" />][github]
 [<img align="left" height="30px" src="icons/social/linkedin.png" alt="luan-gonçalves-4b180483 | LinkedIn" />][linkedin]
 [<img align="left" height="30px" src="icons/social/lattes.png" alt="6155949500719023 | lattes" />][lattes]
-[<img align="left" height="30px" src="icons/social/twitter.png" alt="LuanGon06470101 | Twitter" />][twitter]
+[<img align="left" height="30px" src="icons/social/twitter.png" alt="LUANASSISGONCA1 | Twitter" />][twitter]
 
 <br />
 <br />
