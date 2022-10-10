@@ -66,5 +66,5 @@ Here are some ideas to get you started:
 [github]: https://github.com/LuanAGoncalves
 [website]: https://luanagoncalves.github.io/
 [linkedin]: https://www.linkedin.com/in/luan-gonçalves-4b180483/
-[twitter]: https://twitter.com/LuanGon06470101
+[twitter]: https://twitter.com/LUANASSISGONCA1
 [lattes]: http://lattes.cnpq.br/6155949500719023
